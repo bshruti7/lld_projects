@@ -1,1 +1,1 @@
-TicTacToe Python OOD implementation
+Python OOD implementations of Sample Applications
